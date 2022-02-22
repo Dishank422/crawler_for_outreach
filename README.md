@@ -8,7 +8,8 @@ To install Pipenv, run:
 pip3 install pipenv
 ```
 Clone this repo using
-```git clone https://github.com/Dishank422/crawler_for_outreach.git
+```shell
+git clone https://github.com/Dishank422/crawler_for_outreach.git
 ```
 
 To setup virtual environment:
